@@ -12,7 +12,7 @@ import javax.mail.internet.InternetAddress;
 import javax.swing.JComponent;
 import javax.swing.JOptionPane;
 import projectmanagementapp.controller.EmployeeProcessor;
-import projectmangementapp.model.Employee;
+import projectmanagementapp.model.Employee;
 
 /**
  *

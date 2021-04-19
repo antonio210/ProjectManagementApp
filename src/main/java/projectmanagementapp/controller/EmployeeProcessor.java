@@ -8,8 +8,8 @@ package projectmanagementapp.controller;
 import java.util.List;
 import org.mindrot.jbcrypt.BCrypt;
 import projectmanagementapp.util.MyException;
-import projectmangementapp.model.Customer;
-import projectmangementapp.model.Employee;
+import projectmanagementapp.model.Customer;
+import projectmanagementapp.model.Employee;
 
 /**
  *

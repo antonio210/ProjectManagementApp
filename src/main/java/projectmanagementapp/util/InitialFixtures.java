@@ -16,10 +16,10 @@ import java.util.concurrent.TimeUnit;
 import org.hibernate.Session;
 import org.mindrot.jbcrypt.BCrypt;
 import static projectmanagementapp.util.InitialFixtures.start;
-import projectmangementapp.model.ContactPerson;
-import projectmangementapp.model.Customer;
-import projectmangementapp.model.Employee;
-import projectmangementapp.model.Project;
+import projectmanagementapp.model.ContactPerson;
+import projectmanagementapp.model.Customer;
+import projectmanagementapp.model.Employee;
+import projectmanagementapp.model.Project;
 
 /**
  *

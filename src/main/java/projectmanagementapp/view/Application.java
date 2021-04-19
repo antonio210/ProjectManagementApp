@@ -6,7 +6,7 @@
 package projectmanagementapp.view;
 
 
-import projectmangementapp.model.Employee;
+import projectmanagementapp.model.Employee;
 
 /**
  *

@@ -7,7 +7,7 @@ package projectmanagementapp.controller;
 
 import java.util.List;
 import projectmanagementapp.util.MyException;
-import projectmangementapp.model.Person;
+import projectmanagementapp.model.Person;
 
 /**
  *

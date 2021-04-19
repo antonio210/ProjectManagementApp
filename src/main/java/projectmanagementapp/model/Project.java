@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package projectmangementapp.model;
+package projectmanagementapp.model;
 import java.util.Date;
 import javax.persistence.Entity;
 import javax.persistence.JoinColumn;

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package projectmanagmentapp;
+package projectmanagementapp;
 
 import org.hibernate.Hibernate;
 import org.hibernate.Session;

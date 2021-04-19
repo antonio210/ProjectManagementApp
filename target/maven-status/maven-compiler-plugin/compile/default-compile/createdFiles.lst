@@ -14,6 +14,7 @@ projectmanagementapp\util\HibernateUtil.class
 projectmanagementapp\view\Authorization$3.class
 projectmanagementapp\view\MainMenu$3.class
 projectmangementapp\model\Project.class
+projectmanagementapp\Start.class
 projectmanagementapp\view\SplashScreen$Loading.class
 projectmanagementapp\view\CustomersForm.class
 projectmangementapp\model\Customer.class
@@ -29,5 +30,4 @@ projectmanagementapp\view\MainMenu$Vrijeme.class
 projectmangementapp\model\ContactPerson.class
 projectmanagementapp\view\SplashScreen.class
 projectmangementapp\model\Employee.class
-projectmanagmentapp\Start.class
 projectmanagementapp\view\AuthorizationOld$2.class
